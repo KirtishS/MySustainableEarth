@@ -5,7 +5,7 @@
 
 * __Global warming__ is the increase of average world temperature as a result of what is known as the __greenhouse effect__. Certain __gases__ in the __atmosphere__ act like glass in a greenhouse, allowing sunlight through to __heat the earth__'s surface but trapping the heat as it radiates back into space.
 * It's being __predicted__ that by the next century __Earth__ will see a rise of nearly __5&#176;C__ in the global __temperature__ due to __Global warming__.
-* __Team 2&#176;__ believes this rise in temperature can be __restrained__ to __2&#176;C__ and aims to make it a __reality__ with this project .
+* We believes this rise in temperature can be __restrained__ to lower temperature and aims to make it a __reality__ with this project .
 
 ## 🌟 Problem Statement
 
