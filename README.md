@@ -23,8 +23,35 @@
 
 
 ## 🌟 About Project 
-We created a web application that illustrates the rate at which this change is happening globally. We have visualised the correlations among various factors like temperature, greenhouse gas emissions, fossil fuel usages, electricity generation, catastrophes like droughts, floods and storms, and more. We have predicted the impact of these factors on the rising temperature and some of the global concerns like rising sea level or changes in glacier mass using machine learning algorithms. </p>
+We created a web application that illustrates the rate at which this change is happening globally. We have visualised the correlations among various factors like temperature, greenhouse gas emissions, fossil fuel usages, electricity generation, catastrophes like droughts, floods and storms, and more. We have predicted the impact of these factors on the rising temperature and some of the global concerns like rising sea level or changes in glacier mass using machine learning algorithms. 
 
 ## 🌟  Technology stack 
-Web application along with visualisations and machine learning models are developed with Python only. </p>
-We have used Dash and plotly </p>
+Web application along with visualisations and machine learning models are developed with Python only. 
+We have used Dash and plotly 
+
+## 🌟  Installation
+
+A step by step series of examples that tell you how to get a development env running
+
+1. Install all the requirements
+
+```
+pip install -r requirements.txt
+```
+
+2. Start the application 
+
+Run the main.py file
+
+```
+python main.py
+```
+
+3. Running the applications 
+
+In a web browser, open this link :  127.0.0.1:8050/
+
+
+## 🌟  Demo 
+
+https://youtube.com/watch?v=s9ClkXsrQJs&feature=share
